@@ -1,2 +1,2 @@
 # TaskCalendar
-<p>UNIQE TODO IS ON WORKING STAGE </p>
+<p>UNIQE TODO IS ON WORKING STAGE ...</p>
